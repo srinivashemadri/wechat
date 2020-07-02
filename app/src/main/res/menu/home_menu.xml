@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Open a new or existing chat" android:id="@+id/newchat"></item>
+    <item android:title="My Profile" android:id="@+id/myprofile"></item>
+    <item android:title="Logout" android:id="@+id/logout"></item>
+</menu>
